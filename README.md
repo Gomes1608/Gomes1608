@@ -1,16 +1,104 @@
-## Hi there 👋
+🚀 Guilherme Gomes Carneiro
+Estudante de Sistemas de Informação
 
-<!--
-**Gomes1608/Gomes1608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Sou estudante do 3º semestre de Sistemas de Informação na FIAP. Sou apaixonado por tecnologia e focado em desenvolver soluções eficientes, com interesse especial em Desenvolvimento de Software e Banco de dados. Atualmente, busco minha primeira oportunidade como estagiário para aplicar meus conhecimentos em projetos reais e crescer profissionalmente.
 
-Here are some ideas to get you started:
+<p align="left">
+<a href="https://github.com/Gomes1608?tab=repositories&sort=stargazers">
+<img
+alt="Total de estrelas"
+title="Total de estrelas GitHub"
+src="https://custom-icon-badges.demolab.com/github/stars/Gomes1608?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+/>
+</a>
+<a href="https://github.com/Gomes1608?tab=followers">
+<img
+alt="Seguidores"
+title="Me siga no GitHub"
+src="https://custom-icon-badges.demolab.com/github/followers/Gomes1608?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+/>
+</a>
+<a href="www.linkedin.com/in/guilherme-gomes-carneiro-3329aa355">
+<img
+alt="LinkedIn"
+title="Conecte-se comigo"
+src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+/>
+</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Linguagens e Tecnologias
+<img
+align="left"
+alt="Java"
+title="Java"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>
+<img
+align="left"
+alt="Python"
+title="Python"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+<img
+align="left"
+alt="JavaScript"
+title="JavaScript"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
+<img
+align="left"
+alt="HTML5"
+title="HTML5"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+/>
+<img
+align="left"
+alt="CSS3"
+title="CSS3"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+/>
+<img
+align="left"
+alt="Git"
+title="Git"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+
+🎓 Formação e Certificações
+Sistemas de Informação - FIAP (3º Semestre)
+
+NanoCourse: Front-end Programming (80h) - FIAP (HTML, CSS, JS)
+
+NanoCourse: Algoritmos e Fundamentos (80h) - FIAP
+
+📊 Estatísticas
+<p>
+<img
+align="left"
+alt="GitHub Stats"
+height="200"
+style="padding-right: 10px;"
+src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+/>
+
+<img
+align="left"
+alt="GitHub Stats"
+height="200"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6"
+/>
+
+</p>
