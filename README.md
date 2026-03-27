@@ -18,13 +18,6 @@ title="Me siga no GitHub"
 src="https://custom-icon-badges.demolab.com/github/followers/Gomes1608?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
 />
 </a>
-<a href="www.linkedin.com/in/guilherme-gomes-carneiro-3329aa355">
-<img
-alt="LinkedIn"
-title="Conecte-se comigo"
-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-/>
-</a>
 </p>
 
 🤖 Linguagens e Tecnologias
