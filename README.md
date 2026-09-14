@@ -1,7 +1,7 @@
 🚀 Guilherme Gomes Carneiro
 Estudante de Sistemas de Informação
 
-Olá! Sou estudante do 3º semestre de Sistemas de Informação na FIAP. Sou apaixonado por tecnologia e focado em desenvolver soluções eficientes, com interesse especial em Desenvolvimento de Software e Banco de dados. Atualmente, busco minha primeira oportunidade como estagiário para aplicar meus conhecimentos em projetos reais e crescer profissionalmente.
+Olá! Sou estudante do 4º semestre de Sistemas de Informação na FIAP. Sou apaixonado por tecnologia e focado em desenvolver soluções eficientes, com interesse especial em Desenvolvimento de Software e Banco de dados. Atualmente, busco minha primeira oportunidade como estagiário para aplicar meus conhecimentos em projetos reais e crescer profissionalmente.
 
 <p align="left">
 <a href="https://github.com/Gomes1608?tab=repositories&sort=stargazers">
